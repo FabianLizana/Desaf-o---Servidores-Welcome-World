@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+body {
+  background-color: #eee;
+}
+
+textarea {
+  resize: none;
+}
+
+select {
+  font-size: 10px;
+}

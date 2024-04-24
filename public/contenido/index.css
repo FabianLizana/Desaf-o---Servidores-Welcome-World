@@ -1,0 +1,19 @@
+.contenido_title {
+  margin-top: 1rem;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.contenido_parrafo {
+  text-align: center;
+}
+.contenido_button {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1;
+}
+.contenido_button a {
+  text-decoration: none;
+  color: inherit;
+}
